@@ -1,0 +1,20 @@
+MuJoCo Pro Personal license activation key, number 42703, type 6.
+
+Issued to zuo weixun <wzuo@connect.ust.hk>.
+
+Expires December 2, 2018.
+
+This file activates MuJoCo Pro on a single computer with id:
+LINUX_4H3WD10SCCD8WPWST1_1D2XX1A66LLWCW279
+
+Do not modify this file. Its entire content, including the
+plain text section, is used by the activation manager.
+
+bb5334b1e071a73f4f42ebc826e06f0c314c61b513f23f36d681aec3529b3e68
+d99ee080e76087bae8ee945c49d060e934608c9cac52ba3b14165f3294f2d23f
+06c54d0ac643e2dc7937e1f8f9d57368799a81f5f87cb9cba4b2346bae9a4d0f
+abd514227fea6bd18dc5038da49d29adafe852551fb0b954af92af329976943e
+565a30c4c9190c78dd0818314f5a652fe112733c25b63d90070a2fcc599d664f
+0c87bea5a2928b44ce17da3774cc3cfeb28a96157e7741902acb3d0ce8c007db
+f28eaace37767d6da937b2e7e8de436a0ac8773903803787569268ae1e3060e5
+a2513106c84d0c8b78ae90fbe8bc0e3d0ac477b7af975cdf8277390e9a70aebd
